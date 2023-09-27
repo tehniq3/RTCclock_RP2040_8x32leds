@@ -14,3 +14,4 @@ article: https://nicuflorica.blogspot.com/2023/09/ceas-rtc-cu-rp2040-zero-pe-afi
 #define ONE_WIRE_BUS 14 // GP14 // DS18B20 pin
 
 ![RP2040-Zero](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzmPK0zdIuO4v8Fn4RUCzbbEVDbghPXANjEs6vOD09AZZmUdr1xvcByzLPj0XUOdRP5stzZvfufRa4lrd9c29UgcEjFW6YFKKvClgLl8HBS86RhIZ_PiRn6S1HQRR6jb5LZkDsb7KLxs_pJZDFT-tCjh7LE01ZEy7rHRvoYZtw6d8obB82wrDbNvbxV6FL/w200-h149/RP2040_RTC_DS18B20_info.jpg)
+![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy_FTrXEGuVLMnD77DH7iGD5hA0Afl_7lXSC61bBugS3_ukmfAfm_gzbvLWUOZE3uUJC7Ife8eG8EECSdIl_afyBMJImobep8raSdOmjuINmvF4hN4j0JEUW6vPX8pTTCWc-CqhIJfybflrPp_BsNAmOCJokkk2vBlhwsRmXXlcP3xyr49S4gG23mVQi1G/w200-h150/RTC_RP2040_clock_03.jpg)
